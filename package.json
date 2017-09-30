@@ -1,0 +1,15 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "JungWoo",
+  "license": "MIT",
+  "dependencies": {
+    "bulma": "^0.5.3",
+    "electron": "^1.7.6"
+  }
+}
